@@ -1,0 +1,22 @@
+{
+    "autoload": {
+        "psr-4": {
+            "b3nl\\Avatar\\ContentType\\HTML\\": "src/"
+        }
+    },
+    "name": "b3nl/avatar-content-type-html",
+    "description": "Adds the simple HTML content type to the avatar cms.",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.1.*"
+    },
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "b3nl",
+            "email": "code@b3nl.de"
+        }
+    ],
+    "minimum-stability": "dev"
+}
